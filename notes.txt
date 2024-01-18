@@ -1,0 +1,20 @@
+Initial setup:
+
+dotnet new blazor -o BlazorApp
+cd BlazorApp
+dotnet watch
+
+Notes: 
+<-- comments written like this -->
+
+
+Pages/Home.razor
+    - contains the homepage layout
+    - rendered when you run the command:
+    $ dotnet new
+
+.NET 
+    - C# can be used on any operating system without code modification between phone/tablet/desktop systems
+    - offers ML.NET for custom machine learning software
+    - compatible with AWS cloud software for scalability
+    - fast, with a smaller load on the computer
